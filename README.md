@@ -1,12 +1,23 @@
-# React + Vite
+🎨 DesignBox — Creative Portfolio for Designers
+DesignBox is a visually captivating and fully responsive portfolio website tailored for designers to showcase their creative work, style, and services. Built with React + Vite, it emphasizes clean aesthetics, elegant animations, and a layout that highlights visuals over text — perfect for UI/UX designers, graphic artists, illustrators, and branding professionals.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Key Features
+🎯 Clean, minimal design focused on visual storytelling
 
-Currently, two official plugins are available:
+⚡ Built with React + Vite for fast performance and smooth UX
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🖼️ Beautiful project gallery with lightbox-style previews
 
-## Expanding the ESLint configuration
+✨ Soft animations and hover effects to enhance interactivity
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Fully responsive layout (desktop, tablet, mobile)
+
+📁 Sections include:
+
+Home — Bold intro with tagline and call-to-action
+
+Work — Showcase of design projects with visuals
+
+About — Bio, experience, and design philosophy
+
+Contact — Simple form or CTA for inquiries
